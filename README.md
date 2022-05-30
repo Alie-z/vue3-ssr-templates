@@ -1,10 +1,6 @@
 # 前言
-大家好，我是 [易](https://juejin.cn/user/2305054774145918/posts)，在上一篇文章中，我们有讲到[《如何使用 vite+vue3+ts+pinia+vueuse 打造前端企业级项目》](https://juejin.cn/post/7079785777692934174)，能看的出来很多同学喜欢，今天给大家带来爆肝许久的 `如何使用 vite 打造前端 SSR 企业级项目`，希望大家能喜欢！
 
 如果大家对 Vite 感兴趣可以去看看专栏： [《Vite 从入门到精通》](https://juejin.cn/column/7074954144817086472)
-
-
-> ## 如果觉得项目模板不错的话，欢迎 Star 支持就好，感谢大家！
 
 # 了解 SSR
 ## 什么是 SSR
@@ -746,7 +742,3 @@ const html = template
 > 友情提示：目前 Vite 的 SSR 支持还处于试验阶段，可能会遇到一些未知 bug ，所以在公司的生产环境请谨慎使用，个人项目中可以滥用哟 ~
 
 该系列会是一个持续更新系列，关于整个[《Vite 从入门到精通》专栏](https://juejin.cn/column/7074954144817086472)，我主要会从如下图几个方面讲解，请大家拭目以待吧！！！
-
-![Untitled.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/52ee2485e3484e8e8d995fbbb7e86835~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp?)
-
-`靓仔靓女们`，都看到这里了，要不点个赞再走呗 🌹🌹🌹
